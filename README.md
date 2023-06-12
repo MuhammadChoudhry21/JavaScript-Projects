@@ -1,2 +1,2 @@
 # JavaScript-Projects
-My Javascript projects in the Javascript Course
+Here are all my Javascript projects in the 'Javascript' Course.
