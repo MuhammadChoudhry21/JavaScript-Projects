@@ -1,0 +1,81 @@
+h1 {
+    font-family: Arial;
+    font-size: 36px;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+h4 {
+    font-family: Arial;
+    font-size: 14px;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+    color: green;
+    display: block;
+    margin-top: 50px;
+}
+
+input {
+    width: 30%;
+    margin: 4px;
+    border-style: double;
+    border-radius: 7px;
+    border-top: 12px;
+    margin: 8px;
+}
+
+.Contact {
+    text-align: center;
+}
+
+img {
+    width: 100px;
+    height: 200px;
+}
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 5px;
+}
+
+.columnVideo {
+
+    float: top;
+    width: 25%;
+    padding: 5px;
+}
+
+.videosContainer {
+    display: block;
+    margin-top: 50px;
+}
+
+.videosRow {
+    display: block;
+    margin-top: 50px;
+}
+
+body {
+    margin: 0;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 400px);
+    justify-content: center;
+    align-content: center;
+    grid-gap: 10px;
+    cursor: pointer;
+}
+
+.grid img {
+    width: 50px;
+}
