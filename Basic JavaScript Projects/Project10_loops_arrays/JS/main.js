@@ -59,4 +59,3 @@ let plane = {
     }
 };
 document.getElementById("Let_Object").innerHTML = plane.method_function();
-
